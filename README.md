@@ -10,3 +10,6 @@ This is a repository of data analysis and data visualization tools
 
 1. Histogram:
 R - http://www.cookbook-r.com/Graphs/Plotting_distributions_(ggplot2)/
+
+## Courses
+1. Web Scapping in Python: https://realpython.com/python-web-scraping-practical-introduction/
