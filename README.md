@@ -1,4 +1,4 @@
-# data_analysis_tools
+# data_science_links
 This is a repository of data analysis and data visualization tools 
 
 ## Color pallets links
